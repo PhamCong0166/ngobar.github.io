@@ -339,14 +339,13 @@ font-family: 'Lobster', cursive;
 /*end view*/
 .map-comment
 {	
-  overflow: hidden;
 }
 .map-comment .col-xs-12.col-sm-12.col-md-12.col-lg-12 {
     padding: 0px;
 }
 .comment
 {
-	min-height: 300px;
+	height: auto;
 }
 .footer
 {
